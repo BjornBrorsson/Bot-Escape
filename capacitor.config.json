@@ -1,0 +1,6 @@
+{
+  "appId": "com.botescape.app",
+  "appName": "Bot Escape",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
