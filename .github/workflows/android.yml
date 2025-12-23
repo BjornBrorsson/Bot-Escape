@@ -26,7 +26,7 @@ jobs:
 
       - name: Install Dependencies
         run: |
-          npm ci
+          npm install
           npm install @capacitor/core @capacitor/cli @capacitor/android
 
       - name: Build Web Assets
